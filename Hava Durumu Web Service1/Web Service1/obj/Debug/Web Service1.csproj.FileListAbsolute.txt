@@ -1,0 +1,12 @@
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\bin\Debug\Web Service1.exe.config
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\bin\Debug\Web Service1.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\bin\Debug\Web Service1.pdb
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web Service1.csprojResolveAssemblyReference.cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web_Service1.Form1.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web_Service1.Properties.Resources.resources
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web Service1.csproj.GenerateResource.Cache
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web Service1.exe
+c:\users\betul\onedrive\belgeler\visual studio 2015\Projects\Web Service1\Web Service1\obj\Debug\Web Service1.pdb
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Hava Durumu Web Service1\Web Service1\bin\Debug\Web Service1.exe.config
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Hava Durumu Web Service1\Web Service1\obj\Debug\Web Service1.exe
+C:\Users\betul\OneDrive\Belgeler\Visual Studio 2015\Projects\Hava Durumu Web Service1\Web Service1\obj\Debug\Web Service1.pdb
